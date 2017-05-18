@@ -1,0 +1,2 @@
+outputs={'authToken': '098089fgds9078ds09y8sdf9g078gds0ohisdfhg980udfg08d', 'expireDate': '2019/8/8', 'displayName': 'Joe', 'companyId': '33', 'contactInfo': 'joe.maz@maz.com', 'email': 'joe.maz@email.com'}
+outputTemplate=<p>Inputs were:</p><p>{{outputs}}</p>
